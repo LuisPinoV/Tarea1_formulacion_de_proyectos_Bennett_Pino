@@ -1,0 +1,7 @@
+# Archivos de Jupyter Notebook - No incluir outputs
+*.ipynb filter=nbstripout
+*.ipynb diff=ipynb
+
+# Otros archivos
+*.py diff=python
+*.md diff=markdown

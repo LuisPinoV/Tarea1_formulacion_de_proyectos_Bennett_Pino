@@ -21,3 +21,40 @@ rad.json
 #Test results file
 TestResults.xml
 .venv/
+
+### Python ###
+# Ambientes virtuales
+venv/
+
+
+# Caché de Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Archivos de sesión/ejecución de notebooks
+*.nbconvert.ipynb
+
+# Metadatos de ejecución de notebooks - IMPORTANTE
+# Ignorar execution_count y outputs para evitar conflictos de merge
+.ipynb_exclude_output
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
