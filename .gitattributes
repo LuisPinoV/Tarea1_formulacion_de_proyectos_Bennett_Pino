@@ -1,5 +1,5 @@
 # Archivos de Jupyter Notebook - No incluir outputs
-*.ipynb filter=nbstripout
+# *.ipynb filter=nbstripout
 *.ipynb diff=ipynb
 
 # Otros archivos
